@@ -4,5 +4,4 @@ python:
 env:
   - PYTHONPATH=.
 script:
-	- python test.py
-	- python hi.py
+	- pytest
