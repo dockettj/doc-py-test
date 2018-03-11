@@ -3,5 +3,3 @@ python:
   - "3.6"
 env:
   - PYTHONPATH=.
-script:
-  - pytest # or py.test for Python versions 3.5 and below
